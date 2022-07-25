@@ -1,0 +1,5 @@
+var name = prompt("What's your name?");
+console.log("Nice to meet you, " + name);
+var day = prompt("Now tell me the day and month that you were born");
+console.log("Well, I don't know your zodiac sign!"
++ "But dont worry. None of them means a thing");
