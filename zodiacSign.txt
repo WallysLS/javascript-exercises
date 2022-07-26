@@ -1,5 +1,8 @@
-var name = prompt("What's your name?");
+var name = prompt("What is your name?");
 console.log("Nice to meet you, " + name);
-var day = prompt("Now tell me the day and month that you were born");
-console.log("Well, I don't know your zodiac sign!"
-+ "But dont worry. None of them means a thing");
+var day = prompt("From 1 to 31, type the day you were born");
+var month = prompt("From 1 to 12, type the month you were born");
+
+if(){
+console.log("cool")
+}
