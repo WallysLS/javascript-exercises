@@ -1,17 +1,7 @@
-console.log("Hi,there! This is a calculator program");
-
-var num1 = prompt("Choose a number");
-var num2 = prompt("Now choose another one");
-var operation = prompt("You wan to sum, subtract, multiply or divide these numbers?");
-
-if(operation == "sum"){
-console.log(num1+num2);
-} else if(operation == "subtrack"){
-console.log(num1-num2);
-} else if(operation == "multiply"){
-console.log(num1*num2);
-} else if(operation == "divide"){
-console.log(num1/num2);
-}
+var chooseNum1 = prompt("What's the first number?");
+var chooseNum2 = prompt("What's the second number?");
+var opearation = prompt("Now, what do you want to do with these numbers?");
+var substring = "what";
 
 
+console.log(a.includes(b));
